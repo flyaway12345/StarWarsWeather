@@ -30,7 +30,6 @@ getZipcodeWeatherData(){
   console.log(this.weatherUrl);
 }
   ngOnInit(): void {
-    this.getZipcodeWeatherData();
     throw new Error('Method not implemented.');
   }
 
